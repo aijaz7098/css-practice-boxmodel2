@@ -1,0 +1,50 @@
+/* ---------elements--------- */
+body{
+    background-image: url("https://e7.pngegg.com/pngimages/68/154/png-clipart-fifa-world-cup-trophy-2022-fifa-world-cup-2018-fifa-world-cup-2014-fifa-world-cup-2010-fifa-world-cup-unofficial-football-world-championships-football-sport-sports-thumbnail.png");
+    background-size:cover;
+}
+h1{
+    text-align: center;
+}
+p{
+    color: #3C2317;
+    border: 4px solid peru;
+    border-radius: 12px ;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    font-size: 25px;
+    color: crimson;
+    padding: 10px 10px;
+    margin: 10px;
+    
+}
+ul li a{
+    
+    text-decoration: none;
+  
+}
+img{
+    float: left;
+    border-radius: 80%;
+}
+/* --------clases------ */
+.text1{
+    color: green;
+}
+.text2{
+    color:#251B37;
+    text-align: center;
+    font-size: 35px;
+}
+.navigation{
+list-style:none;
+}
+.boxmodel{
+    margin: 10px 10px;
+    padding: 10px 10px;
+    border: 2px solid red;
+    display:inline-block;
+}
+
